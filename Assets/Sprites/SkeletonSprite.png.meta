@@ -1,0 +1,373 @@
+fileFormatVersion: 2
+guid: 7a0c12d8017ecd946a09fdf36a1330c6
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SkeletonSprite_0
+    21300002: SkeletonSprite_1
+    21300004: SkeletonSprite_2
+    21300006: SkeletonSprite_3
+    21300008: SkeletonSprite_4
+    21300010: SkeletonSprite_5
+    21300012: SkeletonSprite_6
+    21300014: SkeletonSprite_7
+    21300016: SkeletonSprite_8
+    21300018: SkeletonSprite_9
+    21300020: SkeletonSprite_10
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SkeletonSprite_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: -12.5}
+        - {x: 4.5, y: -7.5}
+        - {x: 7.5, y: -5.5}
+        - {x: 7.5, y: -3.5}
+        - {x: 11.5, y: -4.5}
+        - {x: 12.5, y: -3.5}
+        - {x: 12.5, y: 3.5}
+        - {x: 11.5, y: 4.5}
+        - {x: 10.5, y: 4.5}
+        - {x: 9.5, y: 5.5}
+        - {x: 12.5, y: 9.5}
+        - {x: 12.5, y: 13.5}
+        - {x: 8.5, y: 17.5}
+        - {x: 0.5, y: 17.5}
+        - {x: -3.5, y: 13.5}
+        - {x: -3.5, y: 9.5}
+        - {x: -1.5, y: 7.5}
+        - {x: -4.5, y: 5.5}
+        - {x: -9.5, y: 5.5}
+        - {x: -12.5, y: 2.5}
+        - {x: -12.5, y: 0.5}
+        - {x: -10.5, y: -1.5}
+        - {x: -8.5, y: -1.5}
+        - {x: -7.5, y: -0.5}
+        - {x: -2.5, y: -0.5}
+        - {x: -3.5, y: -1.5}
+        - {x: -3.5, y: -4.5}
+        - {x: -4.5, y: -4.5}
+        - {x: -5.5, y: -5.5}
+        - {x: -9.5, y: -3.5}
+        - {x: -12.5, y: -3.5}
+        - {x: -12.5, y: -9.5}
+        - {x: -11.5, y: -10.5}
+        - {x: -3.5, y: -10.5}
+        - {x: -2.5, y: -11.5}
+        - {x: -0.5, y: -11.5}
+        - {x: 5.5, y: -17.5}
+        - {x: 11.5, y: -17.5}
+        - {x: 12.5, y: -16.5}
+        - {x: 12.5, y: -13.5}
+        - {x: 10.5, y: -11.5}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 102ebbdbfa3c4e3409e65a685d77e86c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonSprite_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22294f68f44a594ea882c6bd405c0b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonSprite_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f517b4488357d44289df2c55bb8542c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonSprite_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be8d50e053b039439b38c11dd071e80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonSprite_4
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 0
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9deb90c103989145a52bc7dfb5662f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonSprite_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab75f0dfe802eb4181da0f4ed8be933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonSprite_6
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 0
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d970e3e4648277408a9cce7041f8dea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonSprite_7
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d42edab98bcf014185096cdafe9f85f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonSprite_8
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 0
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf96c01b2a1f6744a1d12a556c668bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonSprite_9
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 11
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22bc55148163d9a4080965330d0001a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3d180141730353147b120a2f8e556780
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
